@@ -5,6 +5,7 @@ This is a recopilation of the schematics for Orange Terror series guitar amplifi
 - Orange TT15JR Signature #4 Jim Root Terror 
 - Orange Micro Terror
 - Orange Dark Terror
+- Orange Tiny Terror
 
 I do not own the rights for these schematics, nor take credit for them, I only do this to create a repository to easily find them.
 
@@ -13,3 +14,4 @@ Credits:
 - https://gitlab.com/jofirel/uterror-amp/-/blob/master/uterror.pdf 
 - https://www.freestompboxes.org/viewtopic.php?t=22030&start=40
 - https://www.freestompboxes.org/viewtopic.php?f=2&p=218590#p218590
+- http://www.prowessamplifiers.com/schematics/orange/tiny_terror.html
